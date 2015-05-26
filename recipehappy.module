@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the RecipeHappy feature.
+ */
+
+include_once 'recipehappy.features.inc';
